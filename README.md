@@ -1,11 +1,11 @@
 # Feed Reader
 
-In this project I'm given a web-based application that reads RSS feeds by Udacity. Its based on Jasmine a behavior-driven development framework for testing JavaScript code.
+In this project, I have been given a web-based application that reads RSS feeds by Udacity. Its based on Jasmine a behavior-driven development framework for testing JavaScript code.
 
 ## Getting Started
 
 1. Clone or download the game.
-2. Open index.html.
+2. Open Feed-Reader then index.html.
 
 ## Project Completion
 
@@ -33,12 +33,14 @@ In this project I'm given a web-based application that reads RSS feeds by Udacit
 - [x] 20. When complete - all of your tests should pass. 
 - [x] 21. Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage),  provide documentation for what these future features are and what the tests are checking for.
 
-## Credits
-
-## Resources
+## Credits and Resources
 
 * [Jasmine](http://jasmine.github.io/)
 * [Udacity JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 * [FeedReader Testing Project Rubric](https://review.udacity.com/#!/rubrics/18/view)
+* [Task lists in all markdown documents](https://blog.github.com/2014-04-28-task-lists-in-all-markdown-documents/)
+* [Unit Testing in JavaScript and Jasmine by Dylan Israel](https://www.youtube.com/watch?v=h2eWfvcAOTI)
 
 ## Found a Bug?
+
+[Submit an issue](https://github.com/leahpjoyce/Feed-Reader/issues)
